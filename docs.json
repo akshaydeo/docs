@@ -8,7 +8,7 @@
   },
   "appearance": {
     "default": "light",
-    "strict": true,
+    "strict": false,
   },
   "favicon": "/favicon.svg",
   "navigation": {
