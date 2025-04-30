@@ -5,6 +5,9 @@
   "colors": {
     "light": "#07C983",    
   },
+   "modeToggle": {
+                "isHidden": true
+            },
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
